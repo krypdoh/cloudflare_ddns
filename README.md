@@ -1,2 +1,2 @@
-# namecheap_ddns
-Shell script to update namecheap.com dynamic dns
+# cloudflare_ddns
+Shell script to update cloudflare.com dynamic DNS
